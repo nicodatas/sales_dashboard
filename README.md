@@ -16,7 +16,7 @@ Perfect for business intelligence and sales performance monitoring.
 This project presents a comprehensive sales analysis dashboard built with Power BI, designed to provide actionable insights into global sales performance across multiple dimensions. The dashboard enables data-driven decision-making through interactive visualizations and advanced analytics.
 
 📸 Dashboard Preview
-![Sales Dashboard](assets/dashboard.png)
+![Sales Dashboard](assets/dashboard-screenshot.png)
 
 🔧 Technologies & Tools Used
 
