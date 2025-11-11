@@ -1,2 +1,12 @@
 # sales_dashboard
-Opción 1 - Descripción Concisa: Sales Dashboard - Interactive analytics dashboard for tracking sales performance, profits, and trends across multiple locations and categories. Built with data visualization tools.
+ Sales Analytics Dashboard
+
+Interactive sales dashboard featuring:
+- Real-time KPI tracking (Total Sales, Profit, Discounts, Orders)
+- Geographic sales distribution with interactive map
+- Monthly and daily sales trends analysis
+- Payment method breakdown
+- Category-based sales comparison
+- Multi-dimensional filtering (Country, Store Location, Category, Payment Method, Date Range)
+
+Perfect for business intelligence and sales performance monitoring.
